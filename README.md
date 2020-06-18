@@ -4,9 +4,10 @@ Minhas experiências profissionais
 > [eduvnsm@gmail.com](mailto:eduvnsm@gmail.com) | 
 [11 96261-9777](tel:11962619777)
 
-# Eduardo Vinícius Micami &ndash; Desenvolvedor Senior Front-End
+# Eduardo Vinícius Micami &ndash; Senior Front-End Developer
 - 7 anos de experiência como desenvolvedor web em várias empresas de pequeno, médio e grande porte
 - Full stack developer com foco maior em tecnologias front-end
+- Adepto a trabalhar com metodologia ágeis e scrum
 
 ## Objetivo
 Trabalhar como desenvolvedor/analista de sistemas (web/mobile/desktop) de forma a desenvolver habilidades técnicas e pessoais, afim de obter conhecimentos em processos gerenciais.
@@ -23,16 +24,16 @@ Trabalhar como desenvolvedor/analista de sistemas (web/mobile/desktop) de forma 
 
 ## Formação acadêmica
 **Impacta**
-Lógica de Programação
-*Março 2012*
+Lógica de Programação  
+*Março 2012*  
 
 **Uninove**
-Ciência da Computação (incompleto)
-*Fevereiro 2014*
+Ciência da Computação (incompleto)  
+*Fevereiro 2014*  
 
 **FIAP**
-Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)
-*Fevereiro 2016*
+Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)  
+*Fevereiro 2016*  
 
 
 ## Experiência profissional
