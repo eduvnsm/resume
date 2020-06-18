@@ -7,7 +7,7 @@ Minhas experiências profissionais
 # Eduardo Vinícius Micami &ndash; Senior Front-End Developer
 - 7 anos de experiência como desenvolvedor web em várias empresas de pequeno, médio e grande porte
 - Full stack developer com foco maior em tecnologias front-end
-- Adepto a trabalhar com metodologia ágeis e scrum
+- Adepto a trabalhar com metodologia ágil e scrum
 
 ## Objetivo
 Trabalhar como desenvolvedor/analista de sistemas (web/mobile/desktop) de forma a desenvolver habilidades técnicas e pessoais, afim de obter conhecimentos em processos gerenciais.
