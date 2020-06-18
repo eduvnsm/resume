@@ -20,32 +20,32 @@ Trabalhar como desenvolvedor/analista de sistemas (web/mobile/desktop) de forma 
 - UX &ndash; Mobile-first Design, Responsive Web Design
 
 ## Formação acadêmica
-**Impacta**
+**Impacta**  
 Lógica de Programação  
 *Março 2012*  
 
-**Uninove**
+**Uninove**  
 Ciência da Computação (incompleto)  
 *Fevereiro 2014*  
 
-**FIAP**
+**FIAP**  
 Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)  
 *Fevereiro 2016*  
 
 
 ## Experiência profissional
 
-**Avanade - Chácara Santo Antônio - SP**
-*Dezembro 2018 &ndash; Junho 2020*
-***Banco Safra (Short-Term Contract)***
-- Automação de testes com AngularJS e Mocha
-***Instituição Insper (Long-Term contract)***
+**Avanade - Chácara Santo Antônio - SP**  
+*Dezembro 2018 &ndash; Junho 2020*  
+***Banco Safra (Short-Term Contract)***  
+- Automação de testes com AngularJS e Mocha  
+***Instituição Insper (Long-Term contract)***  
 - Participação na criação do sistema de alocação de docentes da instituição
 - Responsável por desenvolver páginas e componentizar elementos para serem reutilizados com Angular 8+
 - Responsável por desenvolver e dar manuteção em APIs com C# (.NET Core Framework)
 
 **Instituto Phorte Educacional - Bela Vista, SP**  
-*Março 2016 &ndash; Dezembro 2018*
+*Março 2016 &ndash; Dezembro 2018*  
 - Criação, manutenção e refatoração de sites e sistemas web para grandes instituições (Pós-Estácio, Pós-Unicsul, Pós-Uniceub, Pós-FMU entre outras) na área de Pós-Graduação.
 - Criação de APIs desenvolvidas em Laravel
 
@@ -54,7 +54,7 @@ Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)
 - Manutenção de sites e sistemas web desenvolvidos em Wordpress
 - Responsável por dar início ao desenvolvimento de uma aplicação para ler cartões de tarja magnética
 
-**HWN Solutions - Brooklin, SP**
+**HWN Solutions - Brooklin, SP**  
 *Fevereiro 2012 &ndash; Dezembro 2015*  
 - Criação e manutenção de sites, ecommerces e sistemas web
 - Responsável por desenvolver uma aplicação para se comunicar com um dongle em um televisor e exibir uma tabela de preços
