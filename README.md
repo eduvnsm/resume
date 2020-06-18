@@ -37,8 +37,10 @@ Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)
 
 **Avanade - Chácara Santo Antônio - SP**  
 *Dezembro 2018 &ndash; Junho 2020*  
+
 ***Banco Safra (Short-Term Contract)***  
 - Automação de testes com AngularJS e Mocha  
+
 ***Instituição Insper (Long-Term contract)***  
 - Participação na criação do sistema de alocação de docentes da instituição
 - Responsável por desenvolver páginas e componentizar elementos para serem reutilizados com Angular 8+
