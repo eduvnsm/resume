@@ -1,6 +1,3 @@
-# resume
-Minhas experiências profissionais
-
 > [eduvnsm@gmail.com](mailto:eduvnsm@gmail.com) | 
 [11 96261-9777](tel:11962619777)
 
