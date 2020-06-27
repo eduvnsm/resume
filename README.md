@@ -49,7 +49,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (incompleto)
 
 **Instituto Phorte Educacional - Bela Vista, SP**  
 *Março 2016 &ndash; Dezembro 2018*  
-- Criação, manutenção e refatoração de sites e sistemas web para grandes instituições (Pós-Estácio, Pós-Unicsul, Pós-Uniceub, Pós-FMU entre outras) na área de Pós-Graduação.
+- Criação, manutenção e refatoração de sites e sistemas web para grandes instituições (Pós-Estácio, Pós-Unicsul, Pós-Uniceub, Pós-FMU, entre outras) na área de Pós-Graduação.
 - Criação de APIs desenvolvidas em Laravel
 
 **KASI Comércio e Serviços em Equipamentos Eletrônicos LTDA - Moema, SP**  
