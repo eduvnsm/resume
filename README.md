@@ -7,7 +7,7 @@
 - Adepto a trabalhar com metodologia ágil e scrum
 
 ## Objetivo
-Trabalhar como desenvolvedor/analista de sistemas (web/mobile/desktop) de forma a desenvolver habilidades técnicas e pessoais, afim de obter conhecimentos em processos gerenciais.
+Trabalhar como desenvolvedor/analista de sistemas de forma a desenvolver habilidades técnicas e pessoais, afim de obter conhecimentos em processos gerenciais.
 
 ## Habilidades
 - Sistema operacional &ndash; Windows, Linux (Debian)
