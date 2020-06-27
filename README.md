@@ -59,7 +59,7 @@ Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)
 **HWN Solutions - Brooklin, SP**  
 *Fevereiro 2012 &ndash; Dezembro 2015*  
 - Criação e manutenção de sites, ecommerces e sistemas web
-- Responsável por desenvolver uma aplicação para se comunicar com um dongle em um televisor e exibir uma tabela de preços
+- Responsável por desenvolver uma aplicação para se comunicar com um dongle em um televisor e exibir uma tabela de preços para o setor de varejos
 
 ## Informações adicionais
 Sou um profissional da área de Tecnologia da Informação, trabalho com desenvolvimento e análise de sistemas web desde 2012, possuo experiência no mercado adquirida em empresas de pequeno, médio e grande porte. 
