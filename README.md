@@ -15,6 +15,7 @@ Trabalhar como desenvolvedor/analista de sistemas de forma a desenvolver habilid
 - Linguagens de marcação de texto &ndash; HTML5
 - Linguagens de estilização: CSS3, SASS
 - Frameworks &ndash; Angular 8+, Next.js, Node.js, Express, Laravel
+- Banco de dados: MySQL, SQL Server
 - Padrões de arquitetura &ndash; Model View Controller, Server Side Rendering
 - Metodologias &ndash; Agile, Scrum, Object-Oriented Programming
 - UX &ndash; Mobile-first Design, Responsive Web Design
