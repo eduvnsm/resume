@@ -29,7 +29,7 @@ Ciência da Computação (incompleto)
 *Fevereiro 2014*  
 
 **FIAP**  
-Técnolog em Análise e Desenvolvimento de Sistemas (incompleto)  
+Tecnólogo em Análise e Desenvolvimento de Sistemas (incompleto)  
 *Fevereiro 2016*  
 
 
