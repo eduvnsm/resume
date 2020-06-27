@@ -45,7 +45,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (incompleto)
 ***Instituição Insper (Long-Term contract)***  
 - Participação na criação do sistema de alocação de docentes da instituição
 - Responsável por desenvolver páginas e componentizar elementos para serem reutilizados com Angular 8+
-- Responsável por desenvolver e dar manuteção em APIs com C# (.NET Core Framework)
+- Responsável por desenvolver e dar manutenção em APIs com C# (.NET Core Framework)
 
 **Instituto Phorte Educacional - Bela Vista, SP**  
 *Março 2016 &ndash; Dezembro 2018*  
